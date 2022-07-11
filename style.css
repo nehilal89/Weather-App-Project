@@ -1,0 +1,38 @@
+header {
+  color: black;
+  padding: 25px 75px;
+}
+
+h1 {
+  color: blue;
+}
+
+h3 {
+  padding-left: 76px;
+}
+
+.container {
+  padding: 0px 50px 75px;
+  align-items: center;
+  font-size: larger;
+}
+
+.border {
+  top: 10px;
+  width: 1000px;
+  margin: auto;
+  border: 10px solid black;
+}
+
+form {
+  width: 900px;
+  height: 44px;
+  border-radius: 10px;
+  text-align: right;
+}
+form {
+  text-align: right;
+}
+input {
+  width: 200px;
+}
